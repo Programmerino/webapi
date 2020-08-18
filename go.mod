@@ -1,3 +1,3 @@
-module github.com/gowebapi/webapi
+module github.com/Programmerino/webapi
 
 go 1.14
