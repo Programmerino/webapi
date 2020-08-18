@@ -1,8 +1,8 @@
 package speech_test
 
 import (
-	"github.com/gowebapi/webapi"
-	"github.com/gowebapi/webapi/media/speech"
+	"github.com/Programmerino/webapi"
+	"github.com/Programmerino/webapi/media/speech"
 )
 
 func ExampleSpeechRecognitionEvent_Emma() {

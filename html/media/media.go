@@ -4,17 +4,17 @@
 
 package media
 
-import js "github.com/gowebapi/webapi/core/js"
+import js "github.com/Programmerino/webapi/core/js"
 
 import (
-	"github.com/gowebapi/webapi/dom/domcore"
-	"github.com/gowebapi/webapi/html"
-	"github.com/gowebapi/webapi/html/htmlevent"
-	"github.com/gowebapi/webapi/javascript"
-	"github.com/gowebapi/webapi/media/capture/local"
-	"github.com/gowebapi/webapi/media/encrypted"
-	"github.com/gowebapi/webapi/media/pictureinpicture"
-	"github.com/gowebapi/webapi/media/remoteplayback"
+	"github.com/Programmerino/webapi/dom/domcore"
+	"github.com/Programmerino/webapi/html"
+	"github.com/Programmerino/webapi/html/htmlevent"
+	"github.com/Programmerino/webapi/javascript"
+	"github.com/Programmerino/webapi/media/capture/local"
+	"github.com/Programmerino/webapi/media/encrypted"
+	"github.com/Programmerino/webapi/media/pictureinpicture"
+	"github.com/Programmerino/webapi/media/remoteplayback"
 )
 
 // using following types:

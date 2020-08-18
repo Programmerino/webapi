@@ -5,8 +5,8 @@ package webvtt
 import "syscall/js"
 
 import (
-	"github.com/gowebapi/webapi/dom"
-	"github.com/gowebapi/webapi/html/media"
+	"github.com/Programmerino/webapi/dom"
+	"github.com/Programmerino/webapi/html/media"
 )
 
 // using following types:

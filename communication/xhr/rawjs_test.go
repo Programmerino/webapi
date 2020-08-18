@@ -1,8 +1,8 @@
 package xhr_test
 
 import (
-	"github.com/gowebapi/webapi"
-	"github.com/gowebapi/webapi/communication/xhr"
+	"github.com/Programmerino/webapi"
+	"github.com/Programmerino/webapi/communication/xhr"
 )
 
 func ExampleXMLHttpRequest_ResponseXML() {

@@ -5,7 +5,7 @@ package featurepolicy
 import "syscall/js"
 
 import (
-	"github.com/gowebapi/webapi/reporting"
+	"github.com/Programmerino/webapi/reporting"
 )
 
 // using following types:

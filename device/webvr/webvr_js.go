@@ -5,10 +5,10 @@ package webvr
 import "syscall/js"
 
 import (
-	"github.com/gowebapi/webapi/core/jsarray"
-	"github.com/gowebapi/webapi/dom/domcore"
-	"github.com/gowebapi/webapi/html/htmlcommon"
-	"github.com/gowebapi/webapi/javascript"
+	"github.com/Programmerino/webapi/core/jsarray"
+	"github.com/Programmerino/webapi/dom/domcore"
+	"github.com/Programmerino/webapi/html/htmlcommon"
+	"github.com/Programmerino/webapi/javascript"
 )
 
 // using following types:

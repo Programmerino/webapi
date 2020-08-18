@@ -4,12 +4,12 @@
 
 package touchevents
 
-import js "github.com/gowebapi/webapi/core/js"
+import js "github.com/Programmerino/webapi/core/js"
 
 import (
-	"github.com/gowebapi/webapi/device/inputcapabilities"
-	"github.com/gowebapi/webapi/dom/domcore"
-	"github.com/gowebapi/webapi/html/htmlevent"
+	"github.com/Programmerino/webapi/device/inputcapabilities"
+	"github.com/Programmerino/webapi/dom/domcore"
+	"github.com/Programmerino/webapi/html/htmlevent"
 )
 
 // using following types:

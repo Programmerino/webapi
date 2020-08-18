@@ -7,5 +7,5 @@
 //
 // Please note that there is server subdirectory below this package, see below.
 //
-// See home page https://gowebapi.github.io for more details.
+// See home page https://Programmerino.github.io for more details.
 package webapi

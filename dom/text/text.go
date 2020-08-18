@@ -4,12 +4,12 @@
 
 package text
 
-import js "github.com/gowebapi/webapi/core/js"
+import js "github.com/Programmerino/webapi/core/js"
 
 import (
-	"github.com/gowebapi/webapi/javascript"
-	"github.com/gowebapi/webapi/javascript/missingtypes"
-	"github.com/gowebapi/webapi/patch"
+	"github.com/Programmerino/webapi/javascript"
+	"github.com/Programmerino/webapi/javascript/missingtypes"
+	"github.com/Programmerino/webapi/patch"
 )
 
 // using following types:

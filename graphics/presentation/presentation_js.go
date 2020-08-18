@@ -5,10 +5,10 @@ package presentation
 import "syscall/js"
 
 import (
-	"github.com/gowebapi/webapi/dom/domcore"
-	"github.com/gowebapi/webapi/file"
-	"github.com/gowebapi/webapi/html/channel"
-	"github.com/gowebapi/webapi/javascript"
+	"github.com/Programmerino/webapi/dom/domcore"
+	"github.com/Programmerino/webapi/file"
+	"github.com/Programmerino/webapi/html/channel"
+	"github.com/Programmerino/webapi/javascript"
 )
 
 // using following types:

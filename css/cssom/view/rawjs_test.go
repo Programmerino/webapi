@@ -1,8 +1,8 @@
 package view_test
 
 import (
-	"github.com/gowebapi/webapi/css/cssom/view"
-	"github.com/gowebapi/webapi/dom"
+	"github.com/Programmerino/webapi/css/cssom/view"
+	"github.com/Programmerino/webapi/dom"
 )
 
 func ExampleCaretPosition_OffsetNode() {

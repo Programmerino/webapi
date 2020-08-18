@@ -3,11 +3,11 @@ package webgl_test
 import (
 	"fmt"
 
-	"github.com/gowebapi/webapi"
-	"github.com/gowebapi/webapi/core/js"
-	"github.com/gowebapi/webapi/core/jsconv"
-	"github.com/gowebapi/webapi/graphics/webgl"
-	"github.com/gowebapi/webapi/html/canvas"
+	"github.com/Programmerino/webapi"
+	"github.com/Programmerino/webapi/core/js"
+	"github.com/Programmerino/webapi/core/jsconv"
+	"github.com/Programmerino/webapi/graphics/webgl"
+	"github.com/Programmerino/webapi/html/canvas"
 )
 
 //see https://github.com/golang/go/wiki/WebAssembly

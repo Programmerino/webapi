@@ -4,14 +4,14 @@
 
 package paint
 
-import js "github.com/gowebapi/webapi/core/js"
+import js "github.com/Programmerino/webapi/core/js"
 
 import (
-	"github.com/gowebapi/webapi/core/jsarray"
-	"github.com/gowebapi/webapi/dom/geometry"
-	"github.com/gowebapi/webapi/html/canvas"
-	"github.com/gowebapi/webapi/webidl"
-	"github.com/gowebapi/webapi/worklets"
+	"github.com/Programmerino/webapi/core/jsarray"
+	"github.com/Programmerino/webapi/dom/geometry"
+	"github.com/Programmerino/webapi/html/canvas"
+	"github.com/Programmerino/webapi/webidl"
+	"github.com/Programmerino/webapi/worklets"
 )
 
 // using following types:

@@ -4,25 +4,25 @@
 
 package svg
 
-import js "github.com/gowebapi/webapi/core/js"
+import js "github.com/Programmerino/webapi/core/js"
 
 import (
-	"github.com/gowebapi/webapi/clipboard"
-	"github.com/gowebapi/webapi/communication/xhr"
-	"github.com/gowebapi/webapi/csp"
-	"github.com/gowebapi/webapi/css/animations"
-	"github.com/gowebapi/webapi/css/animations/webani"
-	"github.com/gowebapi/webapi/css/cssom"
-	"github.com/gowebapi/webapi/css/transitions"
-	"github.com/gowebapi/webapi/css/typedom"
-	"github.com/gowebapi/webapi/device/touchevents"
-	"github.com/gowebapi/webapi/dom"
-	"github.com/gowebapi/webapi/dom/domcore"
-	"github.com/gowebapi/webapi/dom/geometry"
-	"github.com/gowebapi/webapi/html"
-	"github.com/gowebapi/webapi/html/channel"
-	"github.com/gowebapi/webapi/html/htmlcommon"
-	"github.com/gowebapi/webapi/html/htmlevent"
+	"github.com/Programmerino/webapi/clipboard"
+	"github.com/Programmerino/webapi/communication/xhr"
+	"github.com/Programmerino/webapi/csp"
+	"github.com/Programmerino/webapi/css/animations"
+	"github.com/Programmerino/webapi/css/animations/webani"
+	"github.com/Programmerino/webapi/css/cssom"
+	"github.com/Programmerino/webapi/css/transitions"
+	"github.com/Programmerino/webapi/css/typedom"
+	"github.com/Programmerino/webapi/device/touchevents"
+	"github.com/Programmerino/webapi/dom"
+	"github.com/Programmerino/webapi/dom/domcore"
+	"github.com/Programmerino/webapi/dom/geometry"
+	"github.com/Programmerino/webapi/html"
+	"github.com/Programmerino/webapi/html/channel"
+	"github.com/Programmerino/webapi/html/htmlcommon"
+	"github.com/Programmerino/webapi/html/htmlevent"
 )
 
 // using following types:

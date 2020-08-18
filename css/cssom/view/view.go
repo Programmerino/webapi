@@ -4,13 +4,13 @@
 
 package view
 
-import js "github.com/gowebapi/webapi/core/js"
+import js "github.com/Programmerino/webapi/core/js"
 
 import (
-	"github.com/gowebapi/webapi/dom/domcore"
-	"github.com/gowebapi/webapi/dom/geometry"
-	"github.com/gowebapi/webapi/media/capabilities"
-	"github.com/gowebapi/webapi/media/orientation"
+	"github.com/Programmerino/webapi/dom/domcore"
+	"github.com/Programmerino/webapi/dom/geometry"
+	"github.com/Programmerino/webapi/media/capabilities"
+	"github.com/Programmerino/webapi/media/orientation"
 )
 
 // using following types:

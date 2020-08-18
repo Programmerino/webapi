@@ -1,9 +1,9 @@
 package dom_test
 
 import (
-	"github.com/gowebapi/webapi"
-	"github.com/gowebapi/webapi/dom"
-	"github.com/gowebapi/webapi/html"
+	"github.com/Programmerino/webapi"
+	"github.com/Programmerino/webapi/dom"
+	"github.com/Programmerino/webapi/html"
 )
 
 func ExampleElement_AssignedSlot() {

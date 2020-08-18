@@ -4,11 +4,11 @@
 
 package worklets
 
-import js "github.com/gowebapi/webapi/core/js"
+import js "github.com/Programmerino/webapi/core/js"
 
 import (
-	"github.com/gowebapi/webapi/fetch"
-	"github.com/gowebapi/webapi/javascript"
+	"github.com/Programmerino/webapi/fetch"
+	"github.com/Programmerino/webapi/javascript"
 )
 
 // using following types:

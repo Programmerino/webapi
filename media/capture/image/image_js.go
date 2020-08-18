@@ -5,11 +5,11 @@ package image
 import "syscall/js"
 
 import (
-	"github.com/gowebapi/webapi/file"
-	"github.com/gowebapi/webapi/html/canvas"
-	"github.com/gowebapi/webapi/javascript"
-	"github.com/gowebapi/webapi/media/capture/local"
-	"github.com/gowebapi/webapi/media/mediatype"
+	"github.com/Programmerino/webapi/file"
+	"github.com/Programmerino/webapi/html/canvas"
+	"github.com/Programmerino/webapi/javascript"
+	"github.com/Programmerino/webapi/media/capture/local"
+	"github.com/Programmerino/webapi/media/mediatype"
 )
 
 // using following types:

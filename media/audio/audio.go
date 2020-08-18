@@ -4,18 +4,18 @@
 
 package audio
 
-import js "github.com/gowebapi/webapi/core/js"
+import js "github.com/Programmerino/webapi/core/js"
 
 import (
-	"github.com/gowebapi/webapi/core/jsarray"
-	"github.com/gowebapi/webapi/dom/domcore"
-	"github.com/gowebapi/webapi/html/channel"
-	"github.com/gowebapi/webapi/html/htmlevent"
-	"github.com/gowebapi/webapi/html/media"
-	"github.com/gowebapi/webapi/javascript"
-	"github.com/gowebapi/webapi/media/capture/local"
-	"github.com/gowebapi/webapi/webidl"
-	"github.com/gowebapi/webapi/worklets"
+	"github.com/Programmerino/webapi/core/jsarray"
+	"github.com/Programmerino/webapi/dom/domcore"
+	"github.com/Programmerino/webapi/html/channel"
+	"github.com/Programmerino/webapi/html/htmlevent"
+	"github.com/Programmerino/webapi/html/media"
+	"github.com/Programmerino/webapi/javascript"
+	"github.com/Programmerino/webapi/media/capture/local"
+	"github.com/Programmerino/webapi/webidl"
+	"github.com/Programmerino/webapi/worklets"
 )
 
 // using following types:

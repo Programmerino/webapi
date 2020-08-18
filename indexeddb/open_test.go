@@ -1,9 +1,9 @@
 package indexeddb_test
 
 import (
-	"github.com/gowebapi/webapi"
-	"github.com/gowebapi/webapi/dom/domcore"
-	"github.com/gowebapi/webapi/indexeddb"
+	"github.com/Programmerino/webapi"
+	"github.com/Programmerino/webapi/dom/domcore"
+	"github.com/Programmerino/webapi/indexeddb"
 )
 
 func Example_open() {

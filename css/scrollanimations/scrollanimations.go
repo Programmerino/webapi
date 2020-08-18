@@ -4,11 +4,11 @@
 
 package scrollanimations
 
-import js "github.com/gowebapi/webapi/core/js"
+import js "github.com/Programmerino/webapi/core/js"
 
 import (
-	"github.com/gowebapi/webapi/css/animations/webani"
-	"github.com/gowebapi/webapi/dom"
+	"github.com/Programmerino/webapi/css/animations/webani"
+	"github.com/Programmerino/webapi/dom"
 )
 
 // using following types:

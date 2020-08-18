@@ -5,8 +5,8 @@ package authentication
 import "syscall/js"
 
 import (
-	"github.com/gowebapi/webapi/device/sensor"
-	"github.com/gowebapi/webapi/javascript"
+	"github.com/Programmerino/webapi/device/sensor"
+	"github.com/Programmerino/webapi/javascript"
 )
 
 // using following types:

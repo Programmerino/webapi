@@ -5,8 +5,8 @@ package resizeobserver
 import "syscall/js"
 
 import (
-	"github.com/gowebapi/webapi/dom"
-	"github.com/gowebapi/webapi/dom/geometry"
+	"github.com/Programmerino/webapi/dom"
+	"github.com/Programmerino/webapi/dom/geometry"
 )
 
 // using following types:

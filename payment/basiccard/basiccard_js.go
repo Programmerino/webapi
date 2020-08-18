@@ -5,7 +5,7 @@ package basiccard
 import "syscall/js"
 
 import (
-	"github.com/gowebapi/webapi/payment/request"
+	"github.com/Programmerino/webapi/payment/request"
 )
 
 // using following types:

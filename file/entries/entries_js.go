@@ -5,8 +5,8 @@ package entries
 import "syscall/js"
 
 import (
-	"github.com/gowebapi/webapi/dom/domcore"
-	"github.com/gowebapi/webapi/file"
+	"github.com/Programmerino/webapi/dom/domcore"
+	"github.com/Programmerino/webapi/file"
 )
 
 // using following types:

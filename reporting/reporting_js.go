@@ -5,7 +5,7 @@ package reporting
 import "syscall/js"
 
 import (
-	"github.com/gowebapi/webapi/javascript/missingtypes"
+	"github.com/Programmerino/webapi/javascript/missingtypes"
 )
 
 // using following types:

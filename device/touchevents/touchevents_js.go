@@ -5,9 +5,9 @@ package touchevents
 import "syscall/js"
 
 import (
-	"github.com/gowebapi/webapi/device/inputcapabilities"
-	"github.com/gowebapi/webapi/dom/domcore"
-	"github.com/gowebapi/webapi/html/htmlevent"
+	"github.com/Programmerino/webapi/device/inputcapabilities"
+	"github.com/Programmerino/webapi/dom/domcore"
+	"github.com/Programmerino/webapi/html/htmlevent"
 )
 
 // using following types:

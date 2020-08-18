@@ -5,8 +5,8 @@ package capabilities
 import "syscall/js"
 
 import (
-	"github.com/gowebapi/webapi/javascript"
-	"github.com/gowebapi/webapi/media/encrypted"
+	"github.com/Programmerino/webapi/javascript"
+	"github.com/Programmerino/webapi/media/encrypted"
 )
 
 // using following types:

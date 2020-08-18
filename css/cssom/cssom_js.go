@@ -5,7 +5,7 @@ package cssom
 import "syscall/js"
 
 import (
-	"github.com/gowebapi/webapi/css/typedom"
+	"github.com/Programmerino/webapi/css/typedom"
 )
 
 // using following types:

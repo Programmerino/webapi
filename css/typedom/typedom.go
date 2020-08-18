@@ -4,10 +4,10 @@
 
 package typedom
 
-import js "github.com/gowebapi/webapi/core/js"
+import js "github.com/Programmerino/webapi/core/js"
 
 import (
-	"github.com/gowebapi/webapi/dom/geometry"
+	"github.com/Programmerino/webapi/dom/geometry"
 )
 
 // using following types:

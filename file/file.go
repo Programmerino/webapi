@@ -4,12 +4,12 @@
 
 package file
 
-import js "github.com/gowebapi/webapi/core/js"
+import js "github.com/Programmerino/webapi/core/js"
 
 import (
-	"github.com/gowebapi/webapi/communication/xhr"
-	"github.com/gowebapi/webapi/dom/domcore"
-	"github.com/gowebapi/webapi/javascript"
+	"github.com/Programmerino/webapi/communication/xhr"
+	"github.com/Programmerino/webapi/dom/domcore"
+	"github.com/Programmerino/webapi/javascript"
 )
 
 // using following types:

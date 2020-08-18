@@ -4,10 +4,10 @@
 
 package cssom
 
-import js "github.com/gowebapi/webapi/core/js"
+import js "github.com/Programmerino/webapi/core/js"
 
 import (
-	"github.com/gowebapi/webapi/css/typedom"
+	"github.com/Programmerino/webapi/css/typedom"
 )
 
 // using following types:

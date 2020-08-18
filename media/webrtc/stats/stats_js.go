@@ -5,7 +5,7 @@ package stats
 import "syscall/js"
 
 import (
-	"github.com/gowebapi/webapi/media/webrtc"
+	"github.com/Programmerino/webapi/media/webrtc"
 )
 
 // using following types:

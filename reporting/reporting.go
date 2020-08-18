@@ -4,10 +4,10 @@
 
 package reporting
 
-import js "github.com/gowebapi/webapi/core/js"
+import js "github.com/Programmerino/webapi/core/js"
 
 import (
-	"github.com/gowebapi/webapi/javascript/missingtypes"
+	"github.com/Programmerino/webapi/javascript/missingtypes"
 )
 
 // using following types:

@@ -5,11 +5,11 @@ package webxr
 import "syscall/js"
 
 import (
-	"github.com/gowebapi/webapi/dom/domcore"
-	"github.com/gowebapi/webapi/dom/geometry"
-	"github.com/gowebapi/webapi/graphics/webgl"
-	"github.com/gowebapi/webapi/html/canvas"
-	"github.com/gowebapi/webapi/javascript"
+	"github.com/Programmerino/webapi/dom/domcore"
+	"github.com/Programmerino/webapi/dom/geometry"
+	"github.com/Programmerino/webapi/graphics/webgl"
+	"github.com/Programmerino/webapi/html/canvas"
+	"github.com/Programmerino/webapi/javascript"
 )
 
 // using following types:

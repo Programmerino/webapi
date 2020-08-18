@@ -4,10 +4,10 @@
 
 package basiccard
 
-import js "github.com/gowebapi/webapi/core/js"
+import js "github.com/Programmerino/webapi/core/js"
 
 import (
-	"github.com/gowebapi/webapi/payment/request"
+	"github.com/Programmerino/webapi/payment/request"
 )
 
 // using following types:

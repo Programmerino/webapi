@@ -13,7 +13,7 @@ import (
 	"runtime"
 	"unsafe"
 
-	"github.com/gowebapi/webapi/core/js"
+	"github.com/Programmerino/webapi/core/js"
 )
 
 // UInt8ToJs is converting []uint8 to a new javascript Uint8Array.

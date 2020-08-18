@@ -4,15 +4,15 @@
 
 package appmanifest
 
-import js "github.com/gowebapi/webapi/core/js"
+import js "github.com/Programmerino/webapi/core/js"
 
 import (
-	"github.com/gowebapi/webapi/appmanifest/appmenifestres"
-	"github.com/gowebapi/webapi/dom/domcore"
-	"github.com/gowebapi/webapi/html/htmlcommon"
-	"github.com/gowebapi/webapi/javascript"
-	"github.com/gowebapi/webapi/media/orientation"
-	"github.com/gowebapi/webapi/serviceworker"
+	"github.com/Programmerino/webapi/appmanifest/appmenifestres"
+	"github.com/Programmerino/webapi/dom/domcore"
+	"github.com/Programmerino/webapi/html/htmlcommon"
+	"github.com/Programmerino/webapi/javascript"
+	"github.com/Programmerino/webapi/media/orientation"
+	"github.com/Programmerino/webapi/serviceworker"
 )
 
 // using following types:

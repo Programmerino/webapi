@@ -5,7 +5,7 @@ package masking
 import "syscall/js"
 
 import (
-	"github.com/gowebapi/webapi/graphics/svg"
+	"github.com/Programmerino/webapi/graphics/svg"
 )
 
 // using following types:

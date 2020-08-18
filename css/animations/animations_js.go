@@ -5,8 +5,8 @@ package animations
 import "syscall/js"
 
 import (
-	"github.com/gowebapi/webapi/css/cssom"
-	"github.com/gowebapi/webapi/dom/domcore"
+	"github.com/Programmerino/webapi/css/cssom"
+	"github.com/Programmerino/webapi/dom/domcore"
 )
 
 // using following types:

@@ -5,9 +5,9 @@ package text
 import "syscall/js"
 
 import (
-	"github.com/gowebapi/webapi/javascript"
-	"github.com/gowebapi/webapi/javascript/missingtypes"
-	"github.com/gowebapi/webapi/patch"
+	"github.com/Programmerino/webapi/javascript"
+	"github.com/Programmerino/webapi/javascript/missingtypes"
+	"github.com/Programmerino/webapi/patch"
 )
 
 // using following types:

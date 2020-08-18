@@ -28,7 +28,7 @@ import (
 	"runtime"
 	"unsafe"
 
-	"github.com/gowebapi/webapi/core/js"
+	"github.com/Programmerino/webapi/core/js"
 )
 
 {{end}}

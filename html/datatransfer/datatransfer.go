@@ -4,14 +4,14 @@
 
 package datatransfer
 
-import js "github.com/gowebapi/webapi/core/js"
+import js "github.com/Programmerino/webapi/core/js"
 
 import (
-	"github.com/gowebapi/webapi/dom"
-	"github.com/gowebapi/webapi/file"
-	"github.com/gowebapi/webapi/file/entries"
-	"github.com/gowebapi/webapi/html/draganddrop"
-	"github.com/gowebapi/webapi/javascript"
+	"github.com/Programmerino/webapi/dom"
+	"github.com/Programmerino/webapi/file"
+	"github.com/Programmerino/webapi/file/entries"
+	"github.com/Programmerino/webapi/html/draganddrop"
+	"github.com/Programmerino/webapi/javascript"
 )
 
 // using following types:

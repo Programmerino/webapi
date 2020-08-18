@@ -5,8 +5,8 @@ package url
 import "syscall/js"
 
 import (
-	"github.com/gowebapi/webapi/file"
-	"github.com/gowebapi/webapi/html/media"
+	"github.com/Programmerino/webapi/file"
+	"github.com/Programmerino/webapi/html/media"
 )
 
 // using following types:

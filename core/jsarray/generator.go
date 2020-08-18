@@ -24,7 +24,7 @@ package jsarray
 //go:generate go run generator.go
 
 import (
-	"github.com/gowebapi/webapi/core/js"
+	"github.com/Programmerino/webapi/core/js"
 )
 
 {{end}}

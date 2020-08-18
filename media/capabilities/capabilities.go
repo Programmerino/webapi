@@ -4,11 +4,11 @@
 
 package capabilities
 
-import js "github.com/gowebapi/webapi/core/js"
+import js "github.com/Programmerino/webapi/core/js"
 
 import (
-	"github.com/gowebapi/webapi/javascript"
-	"github.com/gowebapi/webapi/media/encrypted"
+	"github.com/Programmerino/webapi/javascript"
+	"github.com/Programmerino/webapi/media/encrypted"
 )
 
 // using following types:

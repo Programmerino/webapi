@@ -3,9 +3,9 @@ package webapi_test
 import (
 	"fmt"
 
-	"github.com/gowebapi/webapi"
-	"github.com/gowebapi/webapi/html"
-	"github.com/gowebapi/webapi/html/htmlevent"
+	"github.com/Programmerino/webapi"
+	"github.com/Programmerino/webapi/html"
+	"github.com/Programmerino/webapi/html/htmlevent"
 )
 
 func Example_buttonTest() {

@@ -5,9 +5,9 @@ package recording
 import "syscall/js"
 
 import (
-	"github.com/gowebapi/webapi/dom/domcore"
-	"github.com/gowebapi/webapi/file"
-	"github.com/gowebapi/webapi/media/capture/local"
+	"github.com/Programmerino/webapi/dom/domcore"
+	"github.com/Programmerino/webapi/file"
+	"github.com/Programmerino/webapi/media/capture/local"
 )
 
 // using following types:

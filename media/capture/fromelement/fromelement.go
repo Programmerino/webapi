@@ -4,11 +4,11 @@
 
 package fromelement
 
-import js "github.com/gowebapi/webapi/core/js"
+import js "github.com/Programmerino/webapi/core/js"
 
 import (
-	"github.com/gowebapi/webapi/html/canvas"
-	"github.com/gowebapi/webapi/media/capture/local"
+	"github.com/Programmerino/webapi/html/canvas"
+	"github.com/Programmerino/webapi/media/capture/local"
 )
 
 // using following types:

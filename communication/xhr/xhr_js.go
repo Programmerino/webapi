@@ -5,8 +5,8 @@ package xhr
 import "syscall/js"
 
 import (
-	"github.com/gowebapi/webapi/dom/domcore"
-	"github.com/gowebapi/webapi/patch"
+	"github.com/Programmerino/webapi/dom/domcore"
+	"github.com/Programmerino/webapi/patch"
 )
 
 // using following types:

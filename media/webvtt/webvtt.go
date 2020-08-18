@@ -4,11 +4,11 @@
 
 package webvtt
 
-import js "github.com/gowebapi/webapi/core/js"
+import js "github.com/Programmerino/webapi/core/js"
 
 import (
-	"github.com/gowebapi/webapi/dom"
-	"github.com/gowebapi/webapi/html/media"
+	"github.com/Programmerino/webapi/dom"
+	"github.com/Programmerino/webapi/html/media"
 )
 
 // using following types:

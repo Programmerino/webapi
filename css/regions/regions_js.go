@@ -5,8 +5,8 @@ package regions
 import "syscall/js"
 
 import (
-	"github.com/gowebapi/webapi/dom"
-	"github.com/gowebapi/webapi/dom/domcore"
+	"github.com/Programmerino/webapi/dom"
+	"github.com/Programmerino/webapi/dom/domcore"
 )
 
 // using following types:

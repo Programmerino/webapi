@@ -4,18 +4,18 @@
 
 package serviceworker
 
-import js "github.com/gowebapi/webapi/core/js"
+import js "github.com/Programmerino/webapi/core/js"
 
 import (
-	"github.com/gowebapi/webapi/appmanifest/appmenifestres"
-	"github.com/gowebapi/webapi/dom/domcore"
-	"github.com/gowebapi/webapi/fetch"
-	"github.com/gowebapi/webapi/html/channel"
-	"github.com/gowebapi/webapi/html/htmlcommon"
-	"github.com/gowebapi/webapi/javascript"
-	"github.com/gowebapi/webapi/payment"
-	"github.com/gowebapi/webapi/push"
-	"github.com/gowebapi/webapi/serviceworker/client"
+	"github.com/Programmerino/webapi/appmanifest/appmenifestres"
+	"github.com/Programmerino/webapi/dom/domcore"
+	"github.com/Programmerino/webapi/fetch"
+	"github.com/Programmerino/webapi/html/channel"
+	"github.com/Programmerino/webapi/html/htmlcommon"
+	"github.com/Programmerino/webapi/javascript"
+	"github.com/Programmerino/webapi/payment"
+	"github.com/Programmerino/webapi/push"
+	"github.com/Programmerino/webapi/serviceworker/client"
 )
 
 // using following types:

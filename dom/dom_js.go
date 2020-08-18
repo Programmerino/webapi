@@ -5,13 +5,13 @@ package dom
 import "syscall/js"
 
 import (
-	"github.com/gowebapi/webapi/css/animations/webani"
-	"github.com/gowebapi/webapi/css/cssom"
-	"github.com/gowebapi/webapi/css/cssom/view"
-	"github.com/gowebapi/webapi/css/typedom"
-	"github.com/gowebapi/webapi/dom/domcore"
-	"github.com/gowebapi/webapi/dom/geometry"
-	"github.com/gowebapi/webapi/javascript"
+	"github.com/Programmerino/webapi/css/animations/webani"
+	"github.com/Programmerino/webapi/css/cssom"
+	"github.com/Programmerino/webapi/css/cssom/view"
+	"github.com/Programmerino/webapi/css/typedom"
+	"github.com/Programmerino/webapi/dom/domcore"
+	"github.com/Programmerino/webapi/dom/geometry"
+	"github.com/Programmerino/webapi/javascript"
 )
 
 // using following types:

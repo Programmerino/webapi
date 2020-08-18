@@ -5,10 +5,10 @@ package payment
 import "syscall/js"
 
 import (
-	"github.com/gowebapi/webapi/dom/domcore"
-	"github.com/gowebapi/webapi/javascript"
-	"github.com/gowebapi/webapi/payment/request"
-	"github.com/gowebapi/webapi/serviceworker/client"
+	"github.com/Programmerino/webapi/dom/domcore"
+	"github.com/Programmerino/webapi/javascript"
+	"github.com/Programmerino/webapi/payment/request"
+	"github.com/Programmerino/webapi/serviceworker/client"
 )
 
 // using following types:

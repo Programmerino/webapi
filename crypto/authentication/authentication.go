@@ -4,11 +4,11 @@
 
 package authentication
 
-import js "github.com/gowebapi/webapi/core/js"
+import js "github.com/Programmerino/webapi/core/js"
 
 import (
-	"github.com/gowebapi/webapi/device/sensor"
-	"github.com/gowebapi/webapi/javascript"
+	"github.com/Programmerino/webapi/device/sensor"
+	"github.com/Programmerino/webapi/javascript"
 )
 
 // using following types:

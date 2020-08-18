@@ -5,11 +5,11 @@ package fetch
 import "syscall/js"
 
 import (
-	"github.com/gowebapi/webapi/dom/domcore"
-	"github.com/gowebapi/webapi/file"
-	"github.com/gowebapi/webapi/html"
-	"github.com/gowebapi/webapi/javascript"
-	"github.com/gowebapi/webapi/patch"
+	"github.com/Programmerino/webapi/dom/domcore"
+	"github.com/Programmerino/webapi/file"
+	"github.com/Programmerino/webapi/html"
+	"github.com/Programmerino/webapi/javascript"
+	"github.com/Programmerino/webapi/patch"
 )
 
 // using following types:

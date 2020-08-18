@@ -4,10 +4,10 @@
 
 package filtereffects
 
-import js "github.com/gowebapi/webapi/core/js"
+import js "github.com/Programmerino/webapi/core/js"
 
 import (
-	"github.com/gowebapi/webapi/graphics/svg"
+	"github.com/Programmerino/webapi/graphics/svg"
 )
 
 // using following types:

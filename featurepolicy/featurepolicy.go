@@ -4,10 +4,10 @@
 
 package featurepolicy
 
-import js "github.com/gowebapi/webapi/core/js"
+import js "github.com/Programmerino/webapi/core/js"
 
 import (
-	"github.com/gowebapi/webapi/reporting"
+	"github.com/Programmerino/webapi/reporting"
 )
 
 // using following types:

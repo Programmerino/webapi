@@ -5,8 +5,8 @@ package fromelement
 import "syscall/js"
 
 import (
-	"github.com/gowebapi/webapi/html/canvas"
-	"github.com/gowebapi/webapi/media/capture/local"
+	"github.com/Programmerino/webapi/html/canvas"
+	"github.com/Programmerino/webapi/media/capture/local"
 )
 
 // using following types:

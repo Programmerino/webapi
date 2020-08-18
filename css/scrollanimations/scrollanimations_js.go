@@ -5,8 +5,8 @@ package scrollanimations
 import "syscall/js"
 
 import (
-	"github.com/gowebapi/webapi/css/animations/webani"
-	"github.com/gowebapi/webapi/dom"
+	"github.com/Programmerino/webapi/css/animations/webani"
+	"github.com/Programmerino/webapi/dom"
 )
 
 // using following types:

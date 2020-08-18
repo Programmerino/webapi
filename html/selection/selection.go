@@ -4,10 +4,10 @@
 
 package selection
 
-import js "github.com/gowebapi/webapi/core/js"
+import js "github.com/Programmerino/webapi/core/js"
 
 import (
-	"github.com/gowebapi/webapi/dom"
+	"github.com/Programmerino/webapi/dom"
 )
 
 // using following types:

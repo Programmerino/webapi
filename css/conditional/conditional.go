@@ -4,10 +4,10 @@
 
 package conditional
 
-import js "github.com/gowebapi/webapi/core/js"
+import js "github.com/Programmerino/webapi/core/js"
 
 import (
-	"github.com/gowebapi/webapi/css/cssom"
+	"github.com/Programmerino/webapi/css/cssom"
 )
 
 // using following types:

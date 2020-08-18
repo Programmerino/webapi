@@ -5,8 +5,8 @@ package webgl2
 import "syscall/js"
 
 import (
-	"github.com/gowebapi/webapi/graphics/webgl"
-	"github.com/gowebapi/webapi/javascript"
+	"github.com/Programmerino/webapi/graphics/webgl"
+	"github.com/Programmerino/webapi/javascript"
 )
 
 // using following types:

@@ -4,12 +4,12 @@
 
 package intersection
 
-import js "github.com/gowebapi/webapi/core/js"
+import js "github.com/Programmerino/webapi/core/js"
 
 import (
-	"github.com/gowebapi/webapi/dom"
-	"github.com/gowebapi/webapi/dom/geometry"
-	"github.com/gowebapi/webapi/javascript"
+	"github.com/Programmerino/webapi/dom"
+	"github.com/Programmerino/webapi/dom/geometry"
+	"github.com/Programmerino/webapi/javascript"
 )
 
 // using following types:

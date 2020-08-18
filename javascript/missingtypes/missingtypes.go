@@ -4,7 +4,7 @@
 
 package missingtypes
 
-import js "github.com/gowebapi/webapi/core/js"
+import js "github.com/Programmerino/webapi/core/js"
 
 // using following types:
 

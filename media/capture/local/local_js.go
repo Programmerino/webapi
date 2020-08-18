@@ -5,12 +5,12 @@ package local
 import "syscall/js"
 
 import (
-	"github.com/gowebapi/webapi/dom/domcore"
-	"github.com/gowebapi/webapi/javascript"
-	"github.com/gowebapi/webapi/media/capture/depth"
-	"github.com/gowebapi/webapi/media/capture/screen"
-	"github.com/gowebapi/webapi/media/mediatype"
-	"github.com/gowebapi/webapi/patch"
+	"github.com/Programmerino/webapi/dom/domcore"
+	"github.com/Programmerino/webapi/javascript"
+	"github.com/Programmerino/webapi/media/capture/depth"
+	"github.com/Programmerino/webapi/media/capture/screen"
+	"github.com/Programmerino/webapi/media/mediatype"
+	"github.com/Programmerino/webapi/patch"
 )
 
 // using following types:

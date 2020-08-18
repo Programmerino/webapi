@@ -5,8 +5,8 @@ package parser
 import "syscall/js"
 
 import (
-	"github.com/gowebapi/webapi"
-	"github.com/gowebapi/webapi/dom"
+	"github.com/Programmerino/webapi"
+	"github.com/Programmerino/webapi/dom"
 )
 
 // using following types:

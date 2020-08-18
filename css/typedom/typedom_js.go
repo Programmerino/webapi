@@ -5,7 +5,7 @@ package typedom
 import "syscall/js"
 
 import (
-	"github.com/gowebapi/webapi/dom/geometry"
+	"github.com/Programmerino/webapi/dom/geometry"
 )
 
 // using following types:

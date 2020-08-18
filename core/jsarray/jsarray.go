@@ -9,7 +9,7 @@ package jsarray
 //go:generate go run generator.go
 
 import (
-	"github.com/gowebapi/webapi/core/js"
+	"github.com/Programmerino/webapi/core/js"
 )
 
 func UInt8ToJS(values []uint8) js.Value {

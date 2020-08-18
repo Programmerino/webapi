@@ -5,7 +5,7 @@ package conditional
 import "syscall/js"
 
 import (
-	"github.com/gowebapi/webapi/css/cssom"
+	"github.com/Programmerino/webapi/css/cssom"
 )
 
 // using following types:

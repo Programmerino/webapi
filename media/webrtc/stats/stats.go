@@ -4,10 +4,10 @@
 
 package stats
 
-import js "github.com/gowebapi/webapi/core/js"
+import js "github.com/Programmerino/webapi/core/js"
 
 import (
-	"github.com/gowebapi/webapi/media/webrtc"
+	"github.com/Programmerino/webapi/media/webrtc"
 )
 
 // using following types:
